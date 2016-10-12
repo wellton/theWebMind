@@ -1,6 +1,8 @@
-TheWebMind
+wMind
 ===============================================
-This is the source code for theWebMind project.
+Nota: este projeto é um fork do theWebMind de Felipe Moura.
+
+This is the source code for wMind project.
 
 Requirements:
 ---------
@@ -53,9 +55,8 @@ Unit tests are on Tests directory, run it with PHPUnit
 	[yourMindDir]/Tests
 
 Useful/interesting links:
-[Official website](http://thewebmind.org "theWebMind") |
+[Official website](http://wellton.com.br/wMind "wMind") |
 [Licenses](https://github.com/felipenmoura/theWebMind/blob/master/licenses/mind3rd.license, "Licenses") |
 [Documentation](http://docs.thewebmind.org "documentation") |
-[Contact](mailto:contact@thewebmind.org "contact") |
-[Twitter](http://twitter.com/thewebmind "twitter") | 
-[Contribute](http://thewebmind.org/contribute "Contribute")
+[Contact](mailto:wMind@wellton.com.br "contact") |
+[Twitter](http://social.wellton.com.br/wMind "GNU Social") | 
